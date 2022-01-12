@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252128160625",
+    "project_id": "ismabank-159ac",
+    "storage_bucket": "ismabank-159ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252128160625:android:8e33030cd908289b9764d0",
+        "android_client_info": {
+          "package_name": "com.ismadev.ismabank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252128160625-3evesoab66bm3dqpf9a88l84unnnqs81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54ROi0L08j2TQ9RNOg1lPPH9QbYbKBlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252128160625-3evesoab66bm3dqpf9a88l84unnnqs81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

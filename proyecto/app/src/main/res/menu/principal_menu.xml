@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/group_Config">
+        <item
+            android:id="@+id/opHelp"
+            android:title="Opciones">
+            <menu>
+                <item
+                    android:id="@+id/configMenu"
+                    android:title="Configuración" />
+                <item
+                    android:id="@+id/opHelpAndroid"
+                    android:title="op2" />
+            </menu>
+        </item>
+
+        <item
+            android:id="@+id/cerrarSesionMenu"
+            android:icon="@color/common_google_signin_btn_text_dark"
+            android:title="cerrar sesión" />
+
+    </group>
+</menu>
